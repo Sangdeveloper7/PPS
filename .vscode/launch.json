@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/sanghyunlee/Desktop/pps",
-      "program": "/Users/sanghyunlee/Desktop/pps/build/Debug/outDebug"
+      "cwd": "/Users/sanghyunlee/Desktop/PPS",
+      "program": "/Users/sanghyunlee/Desktop/PPS/build/Debug/outDebug"
     }
   ]
 }
